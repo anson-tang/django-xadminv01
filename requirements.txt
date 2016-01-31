@@ -1,5 +1,6 @@
 django~=1.8.1
 django-crispy-forms~=1.4.0
 django-reversion~=1.8.0
+django-formtools
 xlwt
 xlsxwriter
